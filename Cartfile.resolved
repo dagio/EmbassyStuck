@@ -1,0 +1,2 @@
+github "envoy/Ambassador" "v3.0.0"
+github "envoy/Embassy" "v3.1.0"
